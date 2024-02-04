@@ -4,12 +4,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #3e769c;
+    background-color: white;
 }
 
 header{
     height: 150px;
-    background-color: #333;
+    background-color: #150b4f;
     color: white;
     padding: 20px;
   
