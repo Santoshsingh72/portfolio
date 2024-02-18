@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: white;
+    /* overflow: scroll; */
 }
 
 header{
@@ -24,7 +25,7 @@ section {
 }
 
 h1, h2, h3 {
-   color: rgb(104, 14, 14);
+   color: rgb(104, 14, 73);
 }
 
 .projects {
@@ -38,6 +39,7 @@ h1, h2, h3 {
     margin: 10px;
     text-align: left;
 }
+
 
 footer {
     text-align: center;
